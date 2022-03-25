@@ -6,7 +6,7 @@ int main(){
     cin>>n;
     
     while(n--){
-        long long a,b;
+        long long int a,b;
         cin>>a>>b;
         if( a > b){
             cout<<'>'<<'\n';
